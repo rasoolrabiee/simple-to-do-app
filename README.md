@@ -16,7 +16,7 @@ This is a simple to-do application created using Python and Tkinter. The applica
 ## Installation
 ### Option 1 :
 You can download and run the standalone executable file without needing to install Python or any additional libraries
-
+[Releases page](https://github.com/rasoolrabiee/simple-to-do-app/releases/tag/v1.0.0).
 
 
 ### Option 2:
