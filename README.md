@@ -14,7 +14,12 @@ This is a simple to-do application created using Python and Tkinter. The applica
 - Load tasks from a JSON file.
 
 ## Installation
+### Option 1 :
+You can download and run the standalone executable file without needing to install Python or any additional libraries
 
+
+
+### Option 2:
 To run this application, you'll need Python installed on your machine. Follow these steps to set up the environment:
 
 1. **Clone the repository:**
